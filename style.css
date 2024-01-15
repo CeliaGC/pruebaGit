@@ -1,1 +1,22 @@
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
 
+}
+
+nav{
+    height: 20%;
+}
+
+main{
+    height: 60%;
+}
+
+footer{
+    height: 20%;
+}
+
+.black-border{
+    border: 1px solid black;
+}
